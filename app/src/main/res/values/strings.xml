@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASC Example</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_connecting">Connecting</string>
+    <string name="btn_connected">Connected</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_send">Send</string>
+    <string name="tf_ip_addr">IP Address</string>
+    <string name="tf_ip_port">Port</string>
+    <string name="tf_msg">Message</string>
+</resources>
